@@ -1,0 +1,29 @@
+_repo: Wackenroders--Herzensergie-ungen-eines-kunstliebenden-Klosterbruders--in-ihrem-Verh-ltnis-zu-__38707
+_version: 0.1.0
+alternative_title: Wackenroders „Herzensergiessungen eines kunstliebenden Klosterbruders“
+  in ihrem Verhältnis zu Vasari
+covers:
+- cover_type: archival
+  image_path: 38707-h/images/coverimage.jpg
+creator:
+  author:
+    agent_name: Dessauer, Ernst
+    gutenberg_agent_id: '39616'
+    url: http://www.gutenberg.org/2009/agents/39616
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38707'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wackenroder, Wilhelm Heinrich, 1773-1798'
+- !lcc 'PT'
+- !lcsh 'Vasari, Giorgio, 1511-1574'
+title: Wackenroders „Herzensergießungen eines kunstliebenden Klosterbruders“ in ihrem
+  Verhältnis zu Vasari
+url: http://www.gutenberg.org/ebooks/38707
